@@ -1,0 +1,81 @@
+/*
+#bottomPanel {
+    border: 1px solid rgba(255,255,255,0.2);
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-radius: 0px;
+	color: rgba(255,255,255,1.0);
+	background-gradient-direction: vertical;
+	background-gradient-start: rgba(0,0,0,0.8);
+	background-gradient-end: rgba(0,0,0,0.6);
+	height: 26px;
+	font-size: 8.5pt;
+	font-weight: normal;    
+}
+
+.message-button {
+    min-width: 2.5em;
+    font-weight: bold;
+    color: #555;
+    transition-duration: 100;
+}
+
+.message-button:hover {
+    color: #aaa;    
+}
+
+.bottom-panel {
+    spacing: 6px;
+}
+*/
+.workspace-switcher {
+    spacing: 1px;
+}
+
+.workspace-button {
+    min-width: 1.8em;   
+    color: #fff;
+    transition-duration: 0;
+    border: 1px;
+    border-color: #a6a6a6;
+    padding: 1px;
+}
+
+.workspace-button:outlined {
+    padding: 1px;    
+    background: #6d6d6d;
+}
+
+.workspace-dialog-label {
+    font-size: 9pt;
+    color: white;
+}
+
+.workspace-dialog-error-label {
+    font-size: 9pt;
+    color: white;
+}
+
+.workspace-dialog-error-box {
+    padding-top: 15px;
+    spacing: 5px;
+}
+
+.workspace-dialog-entry {
+    font-size: 10.5pt;
+    font-weight: bold;
+    width: 23em;
+    color: white;
+}
+
+.workspace-dialog {
+    border-radius: 16px;
+
+    padding-right: 21px;
+    padding-left: 21px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+
